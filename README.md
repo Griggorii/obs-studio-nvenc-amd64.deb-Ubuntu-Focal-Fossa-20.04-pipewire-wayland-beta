@@ -15,6 +15,8 @@ nvenc nvidia
 
 sudo apt install libnvidia-compute-435 libnvidia-decode-435 libnvidia-encode-435
 
+________________________________________________________________________________________
+
 Optional my mini development xdg-desktop-portal_1.7.2-1.tar.xz
 
 sudo tar xvpf xdg-desktop-portal_1.7.2-1.tar.xz -C /
